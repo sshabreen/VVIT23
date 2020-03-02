@@ -1,0 +1,28 @@
+
+{ 
+    "basics":
+    {
+    "name":"angel__shabreen",
+    "role":"Sleeping star",
+    "email":"shabreenshaik2001@gmail.com",
+    "mobile":"+91 9985632412",
+    "education":[
+       {
+           "schooling":"SSC",
+           "percentage":97.8
+
+      },
+      {
+        "intermediate":"STATE-BOARD",
+        "percentage":98.8
+
+     },
+    {
+    "BTECH":"JNTUK",
+    "percentage":99.8
+
+    }
+
+    ]
+}
+}

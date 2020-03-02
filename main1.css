@@ -1,0 +1,35 @@
+.main{
+    background-color:silver;
+    width:70%;
+    height: 70%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+#side1,#side2{
+    text-align-last: center;
+    text-align:center;
+    background:salmon;
+    border: black;
+    margin-bottom:5%;
+    background-size:auto;
+    border-radius: 0% 5% 0% 5%;
+    color:white;
+    margin-bottom:5%;
+
+}
+img{
+    border-radius: 50%;
+    padding-top: 1%;
+}
+/*media query for mobile view*/
+@media only screen and(min-width:320px)and(max-width:460px){
+    .main{
+        width=100%;
+    }
+    #side1,#side2{
+        width=100%;
+        background-color: black;
+    }
+
+}

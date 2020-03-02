@@ -1,0 +1,37 @@
+
+.main5{
+    width:100%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-section{
+    width:100%;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.side1{
+    width:25%
+    text-align-last: center;
+    text-align:center;
+    background:salmon;
+    border: black;
+    margin-bottom:5%;
+    background-size:auto;
+    border-radius: 0% 5% 0% 5%;
+    color:white;
+    margin-bottom:5%;
+
+}
+.side2
+{
+width:74%;
+background-color: darkgray;
+scroll-padding-block: 56%;
+}
+img{
+    width: 50%;
+    padding-top: 1%;
+}
